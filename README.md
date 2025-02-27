@@ -1,6 +1,6 @@
-# linear_regression
+# Linear Regression
 
-A simple linear regression implementation.
+A simple linear regression implementation in Python.
 
 ## Setup
 
